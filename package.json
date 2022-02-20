@@ -1,0 +1,29 @@
+{
+  "name": "@wilderbeest/basic-cryptanalysis-datasets",
+  "version": "0.1.0",
+  "description": "Datasets from Army FM 34-40-2",
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilderbeest/basic-cryptanalysis-datasets.git"
+  },
+  "keywords": [
+    "cryptanalysis",
+    "cryptography",
+    "decode",
+    "decrypt"
+  ],
+  "author": "Wilderbeest",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/wilderbeest/basic-cryptanalysis-datasets/issues"
+  },
+  "homepage": "https://github.com/wilderbeest/basic-cryptanalysis-datasets#readme",
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {}
+}
