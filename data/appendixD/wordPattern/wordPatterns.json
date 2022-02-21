@@ -184,5 +184,169 @@
     ["PASSES", "PA", "SSES", ""],
     ["ASSIST", "A", "SSIS", "T"],
     ["CHASSIS", "CHA", "SSIS", ""]
+  ],
+  "AABAACB": [
+    ["ASSESSMENT", "A", "SSESSME", "NT"]
+  ],
+  "AABAACBDEA": [
+    ["ASSESSMENTS", "A", "SSESSMENTS", ""]
+  ],
+  "AABAB": [
+    ["PROCEEDED", "PROC", "EEDED", ""]
+  ],
+  "AABB": [
+    ["COFFEE", "CO", "FFEE", ""],
+    ["BALLOON", "BA", "LLOO", "N"]
+  ],
+  "AABBAACAC": [
+    ["BEENNEEDED", "B", "EENNEEDED", ""]
+  ],
+  "AABBCBC": [
+    ["SUCCEEDED", "SU", "CCEEDED", ""]
+  ],
+  "AABCA": [
+    ["BEETLE", "B", "EETLE", ""],
+    ["ANNOUNCE", "A", "NNOUN", "CE"],
+    ["FOOTHOLD", "F", "OOTHO", "LD"],
+    ["CARRIER", "CA", "RRIER", ""],
+    ["ASSETS", "A", "SSETS", ""],
+    ["ISSUES", "I", "SSUES", ""]
+  ],
+  "AABCADEC": [
+    ["COMMITMENT", "CO", "MMITMENT", ""],
+    ["ATTENTION", "A", "TTENTION", ""]
+  ],
+  "AABCADEFEA": [
+    ["ANNOUNCEMENT", "A", "NNOUNCEMEN", "T"]
+  ],
+  "AABCB": [
+    ["SCREENING", "SCR", "EENIN", "G"],
+    ["DIFFERENT", "DI", "FFERE", "NT"],
+    ["SUFFERED", "SU", "FFERE", "D"],
+    ["OFFICIAL", "O", "FFICI", "AL"],
+    ["SUFFICIENT", "SU", "FFICI", "ENT"],
+    ["ALLEGE", "A", "LLEGE", ""],
+    ["COLLEGE", "CO", "LLEGE", ""],
+    ["BILLETED", "BI", "LLETE", "D"],
+    ["AMMETER", "A", "MMETE", "R"],
+    ["WOODED", "W", "OODED", ""],
+    ["TERRIFIC", "TE", "RRIFI", "C"],
+    ["BATTERED", "BA", "TTERE", "D"]
+  ],
+  "AABCBDEB": [
+    ["DIFFERENCE", "DI", "FFERE", "NCE"]
+  ],
+  "AABCC": [
+    ["ACCESS", "A", "CCESS", ""],
+    ["ACCESSORY", "A", "CCESS", "ORY"],
+    ["COMMISSARY", "CO", "MMISS", "ARY"]
+  ],
+  "AABCCB": [
+    ["WILLATTACK", "WI", "LLATTA", "CK"]
+  ],
+  "AABCCDD": [
+    ["COMMITTEE", "CO", "MMITTEE", ""]
+  ],
+  "AABCCDEFBC": [
+    ["ACCESSORIES", "A", "CCESSORIES", ""]
+  ],
+  "AABCDA": [
+    ["ILLEGAL", "I", "LLEGAL", ""],
+    ["ATTEMPT", "A", "TTEMPT", ""]
+  ],
+  "AABCDAB": [
+    ["ATTEMPTED", "A", "TTEMPTE", "D"]
+  ],
+  "AABCDB": [
+    ["OFFENSE", "O", "FFENSE", ""],
+    ["CHALLENGE", "CHA", "LLENGE", ""],
+    ["BALLISTIC", "BA", "LLISTI", "C"],
+    ["ARRESTED", "A", "RRESTE", "D"],
+    ["PASSENGER", "PA", "SSENGE", "R"],
+    ["BATTERIES", "BA", "TTERIE", "S"]
+  ],
+  "AABCDBA": [
+    ["SURRENDER", "SU", "RRENDER", ""]
+  ],
+  "AABCDBABD": [
+    ["SURRENDERED", "SU", "RRENDERED", ""]
+  ],
+  "AABCDBC": [
+    ["COMMANDANT", "CO", "MMANDAN", "T"]
+  ],
+  "AABCDBD": [
+    ["OFFENDED", "O", "FFENDED", ""]
+  ],
+  "AABCDBEC": [
+    ["BALLISTICS", "BA", "LLISTICS", ""]
+  ],
+  "AABCDD": [
+    ["ADDRESS", "A", "DDRESS", ""],
+    ["ILLNESS", "I", "LLNESS", ""]
+  ],
+  "AABCDDCA": [
+    ["ADDRESSED", "A", "DDRESSED", ""]
+  ],
+  "AABCDDCD": [
+    ["ADDRESSES", "A", "DDRESSES", ""]
+  ],
+  "AABCDEB": [
+    ["COMMUNIQUE", "CO", "MMUNIQU", "E"],
+    ["TROOPSHIP", "TR", "OOPSHIP", ""],
+    ["ASSEMBLE", "A", "SSEMBLE", ""]
+  ],
+  "AABCDEBC": [
+    ["TROOPSHIPS", "TR", "OOPSHIPS", ""]
+  ],
+  "AABCDEC": [
+    ["COMMANDING", "CO", "MMANDIN", "G"]
+  ],
+  "AABCDECB": [
+    ["BATTLEFIELD", "BA", "TTLEFIEL", "D"]
+  ],
+  "AABCDED": [
+    ["COMMANDED", "CO", "MMANDED", ""]
+  ],
+  "AABCDEDFC": [
+    ["AMMUNITION", "A", "MMUNITION", ""]
+  ],
+  "AABCDEE": [
+    ["COMMANDEER", "CO", "MMANDEE", "R"]
+  ],
+  "AABCDEFA": [
+    ["REENLISTED", "R", "EENLISTE", "D"],
+    ["IRREGULAR", "I", "RREGULAR", ""]
+  ],
+  "AABCDEFB": [
+    ["OFFENSIVE", "O", "FFENSIVE", ""]
+  ],
+  "AABCDEFBA": [
+    ["ASSEMBLIES", "A", "SSEMBLIES", ""]
+  ],
+  "AABCDEFC": [
+    ["ALLOTMENT", "A", "LLOTMENT", ""],
+    ["COOPERATE", "C", "OOPERATE", ""]
+  ],
+  "AABCDEFD": [
+    ["ILLUSTRATE", "I", "LLUSTRAT", "E"],
+    ["ASSIGNMENT", "A", "SSIGNMENT", "T"]
+  ],
+  "AABCDEFDGA": [
+    ["ASSIGNMENTS", "A", "SSIGNMENTS", ""]
+  ],
+  "AABCDEFGA": [
+    ["COOPERATION", "C", "OOPERATIO", "N"]
+  ],
+  "AABCDEFGABF": [
+    ["REENLISTMENT", "R", "EENLISTMENT", ""]
+  ],
+  "AABCDEFGD": [
+    ["BATTLESHIPS", "BA", "TTLESHIPS", ""]
+  ],
+  "AABCDEFGDAE": [
+    ["COORDINATION", "C", "OORDINATION", ""]
+  ],
+  "AABCDEFGDE": [
+    ["APPOINTMENT", "A", "PPOINTMENT", ""]
   ]
 }
